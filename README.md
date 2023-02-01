@@ -74,7 +74,7 @@
 <h3 align="center">Database</h3>
 <p align="center">
   <a href="" target="_blank"> 
-    <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"
+    <img src="https://img.shields.io/badge/AWS-%23039BE5.svg?style=for-the-badge&logo=AWS"
       alt="AWS"/> 
   </a>
   <a href="" target="_blank"> 
