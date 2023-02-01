@@ -1,4 +1,4 @@
-![logo](https://cdn.phenompeople.com/CareerConnectResources/prod/HONEUS/images/1920-568-coding-blog-1616781712070.png)
+![logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdev.to%2Fdevpato%2Fwhat-made-you-be-a-frontend-or-a-backend-developer-4k1l&psig=AOvVaw27zHEfQoZYC2NoILLIUdSQ&ust=1675360542006000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJiPlMPy9PwCFQAAAAAdAAAAABAE)
 
 <h1 align="center">Hi 👋, I'm Tushar Jain</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
