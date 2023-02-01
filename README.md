@@ -39,9 +39,9 @@
     <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"
       alt="c++"/>
   </a>
-  <a href="https://www.python.org" target="_blank"> 
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" 
-      alt="python"/> 
+  <a href="https://www.java.com" target="_blank"> 
+    <img src="https://img.shields.io/badge/java-3670A0?style=for-the-badge&logo=java&logoColor=ffdd54" 
+      alt="java"/> 
   </a>
   <a href="https://www.w3.org/html/" target="_blank"> 
     <img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
@@ -75,7 +75,7 @@
 <p align="center">
   <a href="" target="_blank"> 
     <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"
-      alt="Firebase"/> 
+      alt="AWS"/> 
   </a>
   <a href="" target="_blank"> 
     <img src="https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white"
