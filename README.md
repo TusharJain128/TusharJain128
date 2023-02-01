@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my assignment and project are available at [https://github.com/TusharJain128](https://github.com/TusharJain128)
 
-- 💬 Ask me about **HTML, CSS, JAVASCRIPT, JAVA, PYTHON, POSTMAN, NODE.JS, EXPRESS, MONGODB, GIT**
+- 💬 Ask me about **HTML, CSS, JAVASCRIPT, C, C++, JAVA, POSTMAN, NODE.JS, EXPRESS, MONGODB, GIT**
 
 <h2 align="left"> 🏆 GitHub Trophies:</h2>
 
