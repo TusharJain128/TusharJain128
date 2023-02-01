@@ -101,7 +101,7 @@
       
 📊 GitHub Status:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divyaGrvgithub&layout=compact&theme=yeblu)](https://github.com/divyaGrvgithub/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TusharJain128&layout=compact&theme=yeblu)](https://github.com/TusharJain128/github-readme-stats)
 
 ![TusharJain128's GitHub status](https://github-readme-stats.vercel.app/api?username=TusharJain128&show_icons=true&theme=yeblu)
 
