@@ -1,4 +1,4 @@
-![logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdev.to%2Fdevpato%2Fwhat-made-you-be-a-frontend-or-a-backend-developer-4k1l&psig=AOvVaw27zHEfQoZYC2NoILLIUdSQ&ust=1675360542006000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJiPlMPy9PwCFQAAAAAdAAAAABAE)
+![logo](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
 <h1 align="center">Hi 👋, I'm Tushar Jain</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
