@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my assignment and project are available at [https://github.com/TusharJain128](https://github.com/TusharJain128)
 
-- 💬 Ask me about **HTML, CSS, JAVASCRIPT, C, C++, JAVA, POSTMAN, NODE.JS, EXPRESS, MONGODB, GIT**
+- 💬 Ask me about **HTML, CSS, JAVASCRIPT, POSTMAN, NODE.JS, EXPRESS, MONGODB, AWS S3, REDIS, Data Structure & Algorithm, GIT, ReactJs**
 
 <h2 align="left"> 🏆 GitHub Trophies:</h2>
 
@@ -23,26 +23,10 @@
 
 ## Coding Skills
 
-<p>
-  <img src ="https://user-images.githubusercontent.com/30186107/29488525-f55a69d0-84da-11e7-8a39-5476f663b5eb.png" height="70px"/>
-</p>
-
 <hr>
 
 <h3 align="center">Languages</h3>
 <p align="center">
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/C%20programming-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white"
-      alt="c"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"
-      alt="c++"/>
-  </a>
-  <a href="https://www.java.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/java-3670A0?style=for-the-badge&logo=java&logoColor=ffdd54" 
-      alt="java"/> 
-  </a>
   <a href="https://www.w3.org/html/" target="_blank"> 
     <img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
       alt="html5"/> 
@@ -69,10 +53,28 @@
   <a href="https://expressjs.com" target="_blank">
     <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"
       alt="JWT" />
+    <a href="https://www.glitch.org/" target="_blank">
+    <img src="https://img.shields.io/badge/glitch-000000.svg?style=for-the-badge&logo=glitch&logoColor=red"
+      alt="glitch" />
 </p>
 
+<h3 align="center">Frontend</h3>
+<p align="center">
+  <a href="https://reactjs.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/reactjs-339933.svg?style=for-the-badge&logo=reactdotjs&logoColor=Pink"
+      alt="React.js"/> 
+      </a>
+    <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+    <img src="https://img.shields.io/badge/netlify-black?style=for-the-badge&logo=netlify&logoColor=green"
+      alt="netlify" />
+</p>
+      
 <h3 align="center">Database</h3>
 <p align="center">
+  <a href="" target="_blank"> 
+    <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"
+      alt="Firebase"/> 
+  </a>
   <a href="" target="_blank"> 
     <img src="https://img.shields.io/badge/AWS-%23039BE5.svg?style=for-the-badge&logo=AWS"
       alt="AWS"/> 
@@ -83,7 +85,11 @@
   </a>
   <a href="https://www.mongodb.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"
-      alt="mongodb"/> 
+      alt="Mongodb"/> 
+  </a>
+  <a href="https://redis.io" target="_blank">
+    <img src="https://img.shields.io/badge/redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white"
+      alt="redis"/>
   </a>
 </p>
  <h3 align="center">Version Control & CI/CD</h3>
