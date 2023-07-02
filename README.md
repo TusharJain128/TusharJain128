@@ -1,17 +1,24 @@
 ![logo](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
-<h1 align="center">Hi 👋, I'm Tushar Jain</h1>
-<h3 align="center">A passionate MERN stack developer from India</h3>
+<h1 align="center">👋 Hi, I'm <a target="_blank"> Tushar Jain </a></h1>
+<h3 align="center">A MERN STACK DEVELOPER</h3>
+<h5 align="center">
+  <a href="#">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+there!...;Great+to+have+you+here!❤️⭐✨&center=true&size=20">
+  </a>
+</h5>
 
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TusharJain128&label=Profile%20views&color=0e75b6&style=flat" alt="TusharJain128" /> </p>
 
-- 🌱 I’m currently learning **DevOps**
+- **🌱 Learning Never Stops 🚀**
 
 - 👨‍💻 All of my assignment and project are available at [https://github.com/TusharJain128](https://github.com/TusharJain128)
 
 - 💬 Ask me about **HTML, CSS, JAVASCRIPT, POSTMAN, NODE.JS, EXPRESS, MONGODB, AWS S3, REDIS, Data Structure & Algorithm, GIT, ReactJs**
+
+- **🎯 2023 Goals: Contribute more to open source projects**
 
 <h2 align="left"> 🏆 GitHub Trophies:</h2>
 
