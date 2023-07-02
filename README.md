@@ -15,13 +15,12 @@
 
 <h2 align="left"> 🏆 GitHub Trophies:</h2>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vpalve07&theme=juicyfresh&no-frame=false&no-bg=true&margin-w=4" alt="vpalve07" /></a> </p>
+<h3 align="center">
+<img src="https://hacked-github-stat-trophies.vercel.app/?username=TusharJain128&theme=onedark&column=11">
+</h3>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TusharJain128&theme=juicyfresh&no-frame=false&no-bg=true&margin-w=4" alt="TusharJain128" /></a> </p>-->
 
-<img align="right" alt="Coding" height="329" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
-
-## Coding Skills
 
 <hr>
 
@@ -105,10 +104,41 @@
     <img src="https://img.shields.io/badge/gitlab-181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"
       alt="git"/>
       
-📊 GitHub Status:
+## 📊 GitHub Activity
+
+<hr>
+
+| ![TusharJain128 Github Stats](https://github-readme-stats.vercel.app/api?username=TusharJain128&show_icons=true&theme=radical) | ![TusharJain128 GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TusharJain128&theme=radical)                                                                                                           |
+| --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TusharJain128&langs_count=8&theme=radical&layout=compact) | ![Github Stars](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TusharJain128&theme=radical&utcOffset=8) |
+| ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TusharJain128&theme=2077) | ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TusharJain128&theme=2077)
+
+<!-- color=nord_dark -->
+
+
+## 📈 GitHub Contribution Graph
+[![Tushar Jain github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TusharJain128&bg_color=d4d1ff&color=4c749e&line=9e4c59&point=40413e&area=true&hide_border=true)](https://github.com/TusharJain128/github-readme-activity-graph)
+<hr>
+       
+<!---📊✨GitHub Status:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TusharJain128&layout=compact&theme=yeblu)](https://github.com/TusharJain128/github-readme-stats)
 
-![TusharJain128's GitHub status](https://github-readme-stats.vercel.app/api?username=TusharJain128&show_icons=true&theme=yeblu)
+![Tushar's GitHub status](https://github-readme-stats.vercel.app/api?username=TusharJain128&show_icons=true&theme=yeblu)
 
-![TusharJain128's GitHub status](https://github-readme-streak-stats.herokuapp.com/?user=TusharJain128&theme=yeblu)  
+![Tushar's GitHub status](https://github-readme-streak-stats.herokuapp.com/?user=TusharJain128&theme=yeblu) 
+    
+<a href="https://github.com/TusharJain128/TusharJain128">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TusharJain128&theme=gruvbox&hide_border=true)](https://github.com/TusharJain128" alt="TusharJain128's GitHub Stats Graph"/> 
+</a>
+<br><br>
+<!--<a href="https://github.com/TusharJain128/TusharJain128">
+  <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=TusharJain128&theme=github" alt="TusharJain128's GitHub Contributions Graph"/>
+</a>
+</div>-->
+
+<hr>
+
+<h2 align="center">☺𝑻𝒉𝒂𝒏𝒌 𝒚𝒐𝒖 𝒇𝒐𝒓 𝒗𝒊𝒔𝒊𝒕𝒊𝒏𝒈!💖</h2>
+
+<hr> 
