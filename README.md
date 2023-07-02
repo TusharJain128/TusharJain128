@@ -14,9 +14,9 @@
 
 - **🌱 Learning Never Stops 🚀**
 
-- 👨‍💻 All of my assignment and project are available at [https://github.com/TusharJain128](https://github.com/TusharJain128)
+- **👨‍💻 All of my assignment and project are available at** **[https://github.com/TusharJain128](https://github.com/TusharJain128)**
 
-- 💬 Ask me about **HTML, CSS, JAVASCRIPT, POSTMAN, NODE.JS, EXPRESS, MONGODB, AWS S3, REDIS, Data Structure & Algorithm, GIT, ReactJs**
+- **💬 Ask me about** **HTML, CSS, JAVASCRIPT, POSTMAN, NODE.JS, EXPRESS, MONGODB, AWS S3, REDIS, Data Structure & Algorithm, GIT, ReactJs**
 
 - **🎯 2023 Goals: Contribute more to open source projects**
 
@@ -110,6 +110,10 @@
   <a href="https://gitlab.com/bindian0509" target="_blank">
     <img src="https://img.shields.io/badge/gitlab-181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"
       alt="git"/>
+
+<div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TusharJain128&theme=2077"  display=block width=100% height=auto  alt="1" >
+</div>
       
 ## 📊 GitHub Activity
 
